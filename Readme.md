@@ -9,7 +9,7 @@ If you have any issue understanding some concepts you can find more information 
 
 We are going to use Docker for use Nginx/Apache, PHP 7.1.13, MySql, so the first step is to create a new project with Magento and serve new Website using Docker together with MySQL, the PHP version need to be the highest for Magento 2. After you finish with the configuration is expected to have a port on your machine running a web server through Docker. In this step, we need to do all the Magento configuration and serve a proper website showing dummy products. 
 
-####Considerations
+#### Considerations
 - Create a database
 - Use docker compose for handling docker configuration
 - You can use the existent configuration on the internet to achieve this step
@@ -34,7 +34,7 @@ Create a [Service Worker](https://developers.google.com/web/fundamentals/primers
 
 Create a new Module for the Product Page to add to the service worker the main image of the product, not all, just the main one. This image needs to be cached being added to the service worker. 
 
-#####Considerations
+##### Considerations
 - The static images from the previous challenge should be kept there, so you only need to add new ones. 
 - Avoid duplications
 - You can save up to 10 product images in the cache, after that you need to fill the new ones replacing the oldest
