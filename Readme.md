@@ -56,7 +56,7 @@ We are going to test the happy path for conversion.
 
 Document the project, how to spin up the project, how to run the tests and how to generate the database and the dummy content. This will be preferable to have it in only one bash scripts but you will decide. 
 
-After you have the documentation, create a repository in GitLab/Github/Bitbucket and send us the link of the repository to {{Chalhoub Email}}
+After you have the documentation, create a repository in GitLab/Github/Bitbucket and send us the link of the repository to pablo.morales@mailmac.net 
 
 
 We are going to give you feedback as fast as possible. 
