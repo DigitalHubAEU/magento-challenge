@@ -1,4 +1,13 @@
+
+
+
+# This test is depracated and was updated for this one https://github.com/DigitalHubUAE/php-developer 
+
+
+------
+
 # Magento Backend Developer Challenge
+
 
 As a Magento Backend developer, we need more than making code to create functionality. So this test is going to be split into several sections with a different kind of challenge.
 
